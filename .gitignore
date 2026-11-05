@@ -5,6 +5,12 @@
 integration-tests/videos
 integration-tests/screenshots
 
+# Playwright
+playwright-tests/screenshots
+playwright-report
+test-results
+playwright/.auth
+
 # Yarn v4 (Berry)
 .yarn/*
 install-state.gz
